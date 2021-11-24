@@ -4,7 +4,7 @@
 ###### Account share application with swiftUI
 
 
-#SCREENSHOT 
+# SCREENSHOT 
 
 #
 
